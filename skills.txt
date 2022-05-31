@@ -1,0 +1,7 @@
+ Skill1: Terminal Linux;
+ Skill2: Git;
+ Skill3: REST API;
+ Skill4: Postman;
+ Skill5: JS;
+ Skill6: Android SDK;
+ Skill7: Jmeter
