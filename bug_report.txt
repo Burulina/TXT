@@ -1,1 +1,7 @@
-
+ id: 1;
+ Summary: The SAVE DATA button is smaller than the others;
+ Severity: Trivial;
+ Priority: Low;
+ Environment: Redmi note 7, Android 10, QKQ1.190910.002;
+ AR: The application buttons have one view;
+ ER: The SAVE DATA button is smaller than the others
