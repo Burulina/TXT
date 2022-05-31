@@ -1,0 +1,4 @@
+ FIO: Pavlenko Vladimir Aleksandrovich;
+ Age: 35;
+ Pets: 0;
+ Salary: 2000
